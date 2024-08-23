@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 ### Good things about CS193
 - Alright TAs
-- Weird questions about melons.
+- Melon Heads.
 - Zebras
 
 
