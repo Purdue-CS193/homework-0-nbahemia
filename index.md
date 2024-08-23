@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Naeem Bahemias First CS193 Homework
 
-## Good things about CS193
+##Good things about CS193
 - Alright TAs
 - Melon Heads.
 - Zebras
