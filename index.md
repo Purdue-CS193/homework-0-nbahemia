@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 > America
 
-# ~~This was mistaken text~~
+~~This was mistaken text~~
 
 - Bulleted
 - List
