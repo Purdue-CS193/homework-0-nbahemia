@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+**naeem**
+
+> America
+
+~~This was mistaken text~~
+
 - Bulleted
 - List
 
